@@ -1,0 +1,219 @@
+title#Goa'uld::title#Français12.56
+
+title#A::title#A
+A::Pour15.36
+Anack Kel::Je suis ton dieu
+Anise::Force Noble (ou 90 C, au choix)
+Ans'li::Prenez le contrôle !
+Arey'Kree::Restez où vous êtes
+Arish::Temple
+A'Roush::Village
+Ash'rak::Mercenaire au service des Goa'uld
+Assak::En Rangs
+Atohara::Les dieux sont ici
+
+title#B::title#B
+Ba'ja'kalma'te::Je vous salue
+Bashaak::Entraînement jaffa
+Benah::Vas-y !
+
+title#C::title#C
+Chaapa'ai::La porte des étoiles
+Cham'ka' (fôret de)::Forêt de Chulak (Teal'c y emmenait jouer son fils Ry'ac)
+Cord'ai (plaines de)::Plaines sur Chulak, où Tealc & Drey'Auc ont vécu
+
+title#D::title#D
+Dis'Tra::Maître
+
+title#G::title#G
+Goah Sha Kree::Je ne crois en aucun Dieu
+Gol'nok::insulte Goa'uld (sens exact inconnu)
+Gonach!::C'en est trop!
+
+title#H::title#H
+Hana'i hana'e !::Comme c'est romantique !
+Harsyesis::Enfant né de deux Goa'uld, possédant tout le savoir des Goa'uld
+Ha'shak::Faible / Imbécile
+Ha'taaka::Traître (= synonyme de Shol'va)
+Ha'tak::Vaisseau-mère Goa'uld
+Honok'Hasnok::Auto-destruction en cours
+
+title#I::title#I
+Ihn'tar::Arme Goa'uld, pouvant prendre la forme et les propriétés de certaines armes
+In'trom Popra Cursor're::S'introduire
+Issapre'Spo'om::Vous avez progress
+
+title#J::title#J
+Jaffa::Garde serviteur Goa'uld (Chulak est la planète des Jaffa)
+Ja'ia::Feu! / Tirez !
+Jankin::Dis le immédiatement ! / Recherche
+Joma Seca::Soyez vigilants
+Ju'iu::Voir
+
+title#K::title#K
+Kal Ma'Te::Merci à toi (Merci)
+Kal Me::Veilles sur nous !
+Kalak::L' Ame / le souffle vital
+Kalmah::Enfant
+Kapita::Maintenez-le / Maintenez-la
+Kas'nik'tah::Casse-couilles
+Ke'i !::À Genoux !
+Kel ?::Où est-tu ? / Où êtes-vous ?
+Kel' Mar' Tokeem::J'aurais ma vengeance
+Kel Sha::Bnjour / Commen ça va ?
+Kel Toc No::J'ai le captif / je l'ai captur
+Kelnoc Shree <...>::Je ne suis pas <...>
+Kel'Ma::Sanctuaire
+Kel'Ma'Te::Je t'aime
+Kelmek::Rendez-vous !
+Kel'Nok::Bonjour
+Kelnorim::Méditaion Goa'uld permettant de communiquer avec sa larve goa et de faire le vide dans sa mémoire
+Kel'Nosh (ou Chel'nat)::Très cool
+Kel'Sha::Il en sera ainsi / Je te remercie / OK
+Kel'Shak::Comment est-ce possible ? / Conseillez-nous
+Kelt::Me voici
+Ket Tal Schree::Tu mens
+Kina arik::Ecoutons leur proposition!
+Kol'Chak !::Obéis !
+Kol-mah::Enfant
+Komah Ata::J'accepte / OK
+Kon !::Cessez le feu !
+Koracca As'imu::Je suis du même avais
+Kornak kree!::Nous devons écouter !
+Korush'Nai::Revenez
+Kree::Attention! / Salut! / Fais Attention! / Stop ! (+ bcp dautres sens.)
+Kree Assak::En Rangs !
+Kree Lo Mel::Ecoutez vos Dieux
+Kree Shak Shell::Heureux de te voir / Je te salue
+Kree Shok::Tu vas souffrir !
+Kree'Nal'Tonik::Mets-le en joue/ Tue-le
+Kree'No'Tel::Nous avons un problème
+Kree'Ol'Na::Laisse-le s'en aller / Laisse-la partir
+Kree'Shak::Jamais / Jamais de la vie
+Kree'ta !::Arrêtez ça ! / Allez-vous en !
+Kree'tall !::Obéis !
+Kresh'ta::Banni
+Kro'Nok::Allez-voir de l'autre côt
+
+title#L::title#L
+Lasla::Choisir
+Lek'Tol::Au revoir
+Lo Assik::Au moindre mouvement, tirez !
+Loe <>::Je ne suis pas <>
+Lo Komoc!::Laissez-moi passer!
+Lok Shak Kelmak A'Kree::Occupe-toi de lui
+Lo'mak::Je sais tout
+Lo'Nok::Donne-moi cette arme
+
+title#M::title#M
+Mai'tak::Rien / Maudit / Détruit
+Mak'ola'Jak'Una She'oli'Odak'ik::Il est temps pour vous de mourir
+Mak'Shel'Lo'Koma'Ashma::Et qu'as-tu à me donner en échange ?
+Mel Tok Nee::Je vais vous tuer
+Mey'No'Ti::Organise une riposte / Détruis-le
+Mikta::Derrière (fessier, lol!)
+My'Ria'Ifshat ?::Que vas tu faire ?
+
+title#N::title#N
+Nak'Tol::Au revoir
+Nanb'Tu'Kua::Comment allez-vous ?
+Na'Newe'iaswutra'ya::Vous êtes venu me détruire
+Ne'Nai::Ne pas / Non
+Nish'ta::Drogue Goa'uld / Envoutement / Asservissement
+Noc::Aucun / Non
+Noc'Ri'Ton' !::Aidez-moi à sortir de là !
+
+title#O::title#O
+Ol'Mel::Fais-le tout de suite
+Ona Rak::Je t'offre
+Onak Arik Kree::Je ne suis pas d'accord
+Onak Holka Shaka::Cétait pour votre bien / C'est pr votre sécurit
+Onak Sha Kree::En quel dieu crois-tu ?
+Onak'Kla'Keela'Vurok::Tu es fort, mais sans nous tu n'es rien
+Onak'La'Hassa::Le pacte est conclu / C'est une affaire qui marche !
+
+title#P::title#P
+Pa'Kree::Qu'est-ce qui se passe? / Quoi de neuf ?
+Pel'tak::Anneaux de Transport
+Prima::" 1er Guerrier ":Chef des armées Goa'uld, plus haut grade pour un jaffa (il est juste en dessous du maître Goa'uld)
+Prim'ta::Forme larvaire du Goa'uld / cérémonie d'implantation de la larve Goa à 1 enfant
+
+title#R::title#R
+Raltor' Kree::Bonne Chance
+Ree Noc::Attaquez
+Remoc::Fin du voyage
+Re'Sapai ?::Est-ce à vous ?
+Rin'Tel'Noc::Partez / Allez loin de moi
+Rosh'na::Drogue destinée aux esclaves réfractaires aux Goa'uld
+
+title#S::title#S
+Satta::Invitation / Régal / Gâteau
+Schreek::Réponds
+Semmoun::Ami
+Sha Mel Kal::Je veux t'entendre le dire
+Sha'ka ha !::En Rangs ! / Préparez-vous !
+Shak'ti'kua::Que crois-tu qu'on est en train de faire ?
+Shal !::Parle !
+Shal'nok::Emmenez-le / Emmenez-la
+Sha'lokma'kor::Tuez-les, Prennez-les
+Shal'Tek !::On rentre !
+Sha'Ri'A'Mak::Trop tard
+Shee!::Fais!
+Shel Nok !::Je ne dirais rien !
+Shel Pac Herac::Tu va connaître la colère de / Tu vas morfler ! / Prends ça dans ta gueule ! (etc)
+Shel'nak::Nous sommes libres
+Shes'Ta::Unité monétaire Goa'uld
+Shin'tel::Qu'y a t'il?
+Shol'va::Traître
+Slel::Monseigneur / Maître / Dieu
+Soey::Moi-Même
+Swaie::OK, Compris
+
+title#T::title#T
+Tafan'Dro::Je te détruirai
+Tak'uni'taga'mu'teron::Arme goauld, canon rotatif (tour de garde) d'une très grande puissance de feu.
+Tal pat ryn::Etoile Filante
+Tal'ac::Sans vie / Mort
+Tal'bet::Rendez-vous !, Déposez les armes !
+Tal'Kol::Mon Dieu / Monseigneur / Mon Maître (signe d'honneur)
+Tal'mac::Je me présente
+Talmal'triak' Mal'Wei'a::Je suis honor
+Tal'shak::Venez / Faîtes-le
+Tal'shak'amel::Je ne ferais pas cela / Je meurs libre
+Tao've'nu !::Incroyable !
+Tau'ri::La Terre (monde d'origine) / les humains
+Teal'c::Force (comme de par hasard...)
+Tek'ma'te::Salut / Bonjour / Content de te voir !
+Tel Mah::Notre amour / mon amour
+Tel Nok Kree::Je l'ai
+Tel nol te'ak::Je suis des vôtres
+Tell Mah Veriunte Shree::Notre amour ne s'achèvera pas dans la mort (nous nous aimerons toujours)
+Tel'Not Kree::Suivez-moi
+Tel'Shak'Kree::Je n'ai rien à voir avec ça / Cela ne me concerne pas!
+Tok::Contre
+Tok'ra::Résistance contre les Goa'uld (" Contre Râ ")
+Treena Arik Croonaka::Tu Oses Me Mentir
+Tuat::Les enfers
+Tun'cma'le !::Super! / Excellent!
+
+title#U::title#U
+Una::Première race hôte des Goa'uld (ils vivent sur P3X888)
+Una'Kra'Shel'Ma::Je vais vous détruire
+
+title#W::title#W
+Wi'Not'Ya !::Vaisseau en approche !
+
+title#Y::title#Y
+Ya'ani !::Fini de jouer! / Passons aux choses sérieuses!
+Yana'Yone'Reksat ?::Et si je refuse ?
+Yanm'Bebitu !::Réponds !
+Ya'ol'wa ?::Quel est le problème ?
+Ya'Wan Ya Duru !::Fais ton choix !
+Yawa'sow'etyunu ?::Où sont-ils ?
+Yo::Arrêter / Ecouter
+Yunak'Anakayarum ?:: Pourquoi ?
+ Yuwai'Wadat'Ko ?::J'étais mort ?
+
+title#Z::title#Z
+Zatarc::Technologie goa'uld permettant de programmer à son insu le cerveau d'un individu
+Zat'nik'tel::Pistolet goa qui au 1er coup cause une douleur très forte, tue au 2nd et désintègre la victime au 3ème
